@@ -19,3 +19,5 @@ It is more important to stay at the same cadence then it is to be fast. Given yo
 If the trial is too easy, increase the cadence or duration by 10%. Another option, if your trainer supports it, is to increase the resistance by 10%.
 
 If the trial is too hard, decrease the cadence or duration by 10%. 
+
+Hi I was here!
